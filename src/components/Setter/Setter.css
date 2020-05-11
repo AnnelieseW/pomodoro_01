@@ -1,0 +1,18 @@
+#setter {
+    background-color: white;
+    overflow: hidden;
+    position: fixed;
+}
+
+#setterButton {
+    right: 0;
+    position: fixed;
+}
+
+.toggleButton {
+    margin: 1.5rem;
+}
+
+.setterInput {
+    width: 3rem;
+}
